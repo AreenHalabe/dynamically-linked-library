@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio 2022 projects\\DDLProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33C0AD33-4AEE-4980-8BD9-4226F8FDF311}|AppTwo\\AppTwo.vcxproj|D:\\visual studio 2022 projects\\DDLProject\\AppTwo\\AppTwo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C0AD33-4AEE-4980-8BD9-4226F8FDF311}|AppTwo\\AppTwo.vcxproj|solutionrelative:AppTwo\\AppTwo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E598AA9-873D-4C1D-8F52-C46832520393}|AppOne\\AppOne.vcxproj|D:\\visual studio 2022 projects\\DDLProject\\AppOne\\AppOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E598AA9-873D-4C1D-8F52-C46832520393}|AppOne\\AppOne.vcxproj|solutionrelative:AppOne\\AppOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B137577-75E2-4112-A638-C8FDC3076FFC}|DDLProject\\DDLProject.vcxproj|D:\\visual studio 2022 projects\\DDLProject\\DDLProject\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B137577-75E2-4112-A638-C8FDC3076FFC}|DDLProject\\DDLProject.vcxproj|solutionrelative:DDLProject\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B137577-75E2-4112-A638-C8FDC3076FFC}|DDLProject\\DDLProject.vcxproj|D:\\visual studio 2022 projects\\DDLProject\\DDLProject\\mylibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B137577-75E2-4112-A638-C8FDC3076FFC}|DDLProject\\DDLProject.vcxproj|solutionrelative:DDLProject\\mylibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppTwo.cpp",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\DDLProject\\AppTwo\\AppTwo.cpp",
+              "RelativeDocumentMoniker": "AppTwo\\AppTwo.cpp",
+              "ToolTip": "D:\\visual studio 2022 projects\\DDLProject\\AppTwo\\AppTwo.cpp",
+              "RelativeToolTip": "AppTwo\\AppTwo.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T21:17:23.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppOne.cpp",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\DDLProject\\AppOne\\AppOne.cpp",
+              "RelativeDocumentMoniker": "AppOne\\AppOne.cpp",
+              "ToolTip": "D:\\visual studio 2022 projects\\DDLProject\\AppOne\\AppOne.cpp",
+              "RelativeToolTip": "AppOne\\AppOne.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T18:46:09.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\DDLProject\\DDLProject\\Source.cpp",
+              "RelativeDocumentMoniker": "DDLProject\\Source.cpp",
+              "ToolTip": "D:\\visual studio 2022 projects\\DDLProject\\DDLProject\\Source.cpp",
+              "RelativeToolTip": "DDLProject\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T18:29:06.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mylibrary.h",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\DDLProject\\DDLProject\\mylibrary.h",
+              "RelativeDocumentMoniker": "DDLProject\\mylibrary.h",
+              "ToolTip": "D:\\visual studio 2022 projects\\DDLProject\\DDLProject\\mylibrary.h",
+              "RelativeToolTip": "DDLProject\\mylibrary.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T18:28:12.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

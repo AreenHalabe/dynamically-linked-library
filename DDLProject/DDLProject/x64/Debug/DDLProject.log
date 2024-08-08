@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\visual studio 2022 projects\DDLProject\DDLProject\Source.cpp(8,6): warning C4273: 'sort': inconsistent dll linkage
+D:\visual studio 2022 projects\DDLProject\DDLProject\Source.cpp(12,6): warning C4273: 'readInfo': inconsistent dll linkage
+D:\visual studio 2022 projects\DDLProject\DDLProject\Source.cpp(19,6): warning C4273: 'display': inconsistent dll linkage
+D:\visual studio 2022 projects\DDLProject\DDLProject\Source.cpp(27,8): warning C4273: 'computeAvg': inconsistent dll linkage
+  DDLProject.vcxproj -> D:\visual studio 2022 projects\DDLProject\x64\Debug\DDLProject.dll

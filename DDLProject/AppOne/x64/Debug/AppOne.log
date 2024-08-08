@@ -1,0 +1,2 @@
+﻿  AppOne.cpp
+LINK : fatal error LNK1104: cannot open file 'D:\visual studio 2022 projects\DDLProject\x64\Debug.obj'

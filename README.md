@@ -1,1 +1,1 @@
-# dynamically-linked-library
+# dynamically-linked-library using C++
